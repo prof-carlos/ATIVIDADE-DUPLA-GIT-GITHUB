@@ -4,8 +4,8 @@
     box-sizing: border-box;
 }
 
-.body-segunda-pagina {
-    background-image: url('assets/fundo-segunda-pagina.jpg');
+.body-index {
+    background-image: url('assets/fundo-index.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
